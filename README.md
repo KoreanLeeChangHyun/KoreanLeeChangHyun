@@ -1,5 +1,7 @@
 ### Hi there 👋 ~
+Let's prepare for the  singularity that will come someday!
 
+![image](https://user-images.githubusercontent.com/38584017/110787307-87417100-82b0-11eb-8845-a0568139a24d.png)
 
 
 <!--
