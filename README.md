@@ -1,4 +1,3 @@
-### Hi there 👋 ~
 Let's prepare for the  singularity that will come someday!
 
 
