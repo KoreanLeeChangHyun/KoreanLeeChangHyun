@@ -2,7 +2,7 @@ Let's prepare for the  singularity that will come someday!
 
 
 ### Language
-Machine-Learning :  ![image](https://simpleicons.org/icons/python.svg)
+Machine-Learning :  
 Web-development  :  
 App-development  :  
 
