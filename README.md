@@ -3,7 +3,6 @@ Let's prepare for the  singularity that will come someday!
 
 
 ### Language
-![image](https://img.shields.io/static/v1?label=&message=&color=) :  ![image](https://img.shields.io/static/v1?label=<aaa>&message=<aaa>&color=<blue>)
 Web-development  :  
 App-development  :  
 
