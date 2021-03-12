@@ -3,7 +3,7 @@ Let's prepare for the  singularity that will come someday!
 
 
 ### Language
-Machine-Learning :  ![image](https://img.shields.io/static/v1?label=<aaa>&message=<aaa>&color=<blue>)
+![image](https://img.shields.io/static/v1?label=<>&message=<Machine-Learning>&color=<'gray'>) :  ![image](https://img.shields.io/static/v1?label=<aaa>&message=<aaa>&color=<blue>)
 Web-development  :  
 App-development  :  
 
