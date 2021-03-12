@@ -1,12 +1,12 @@
 Let's prepare for the  singularity that will come someday!
 
 
-<pre>
+
 ### Language
 Machine-Learning :  
 Web-development  :  
 App-development  :  
-</pre>
+
 <!--
 **KoreanLeeChangHyun/KoreanLeeChangHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
