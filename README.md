@@ -1,7 +1,7 @@
-Let's prepare for the  singularity that will come someday!
+#### Let's prepare for the  singularity that will come someday!
 
-### 💡 <b> Interest </b>
-- Malchine Learning, Cloud Computing
+### 💡 <b> Major & Interest </b>
+Malchine Learning, Cloud Computing, Application
 
 ### 📝 <b> Language & Tool</b>
 <img src="img/Python-logo-notext.png" width="20" height="20"> Python &nbsp;&nbsp;
@@ -12,6 +12,8 @@ Let's prepare for the  singularity that will come someday!
 <img src="img/Eclipse-logo-notext.png" width="20" height="20"> Eclipse &nbsp;&nbsp;
 <img src="img/Visual Studio-logo-notext.png" width="20" height="20"> Visual Studio &nbsp;&nbsp;
 <img src="img/Atom-logo-notext.png" width="20" height="20"> Atom &nbsp;&nbsp;
+
+### 
 
 
 <!--
