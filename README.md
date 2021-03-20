@@ -1,7 +1,14 @@
+# Welcom LeeChangHyun Repository
 #### Let's prepare for the  singularity that will come someday!
 
+## Here are some ideas to get you started:
+- 🔭 I’m currently working on Changwon University (Master degree)  
+- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently studying Cloud Computing
+- 🤔 I’m currently making the Mobile Application for card trading.
+
 ### 💡 <b> Major & Interest </b>
-Malchine Learning, Cloud Computing, Application
+Machine Learning, Cloud Computing, Application
 
 ### 📝 <b> Language & Tool</b>
 <img src="img/Python-logo-notext.png" width="20" height="20"> Python &nbsp;&nbsp;
@@ -13,7 +20,8 @@ Malchine Learning, Cloud Computing, Application
 <img src="img/Visual Studio-logo-notext.png" width="20" height="20"> Visual Studio &nbsp;&nbsp;
 <img src="img/Atom-logo-notext.png" width="20" height="20"> Atom &nbsp;&nbsp;
 
-### 
+### 📫 Contact
+- m.leechanghyun@gmail.com
 
 
 <!--
