@@ -1,7 +1,7 @@
-# Welcom LeeChangHyun Repository
-#### Let's prepare for the  singularity that will come someday!
+## Welcom LeeChangHyun Repository 
+- Let's prepare for the  singularity that will come someday!
 
-## Here are some ideas to get you started:
+### Here are some ideas to get you started:
 - 🔭 I’m currently working on Changwon University (Master degree)  
 - 🌱 I’m currently learning Machine Learning
 - 🌱 I’m currently studying Cloud Computing
