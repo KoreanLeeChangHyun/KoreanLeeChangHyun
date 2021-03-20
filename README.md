@@ -1,9 +1,9 @@
 Let's prepare for the  singularity that will come someday!
 
-### Interest
+### 💡 <b> Interest </b>
 - Malchine Learning, Cloud Computing
 
-### Language
+### 📝 <b> Language </b>
 <img src="img/Python-logo-notext.png" width="20" height="20"> Python &nbsp;&nbsp;
 <img src="img/Java-logo-notext.png" width="20" height="20"> Java &nbsp;&nbsp;
 <img src="img/C-logo-notext.png" width="20" height="20"> C/C++ &nbsp;&nbsp;
