@@ -4,7 +4,7 @@ Let's prepare for the  singularity that will come someday!
 - Malchine Learning, Cloud Computing
 
 ### Language
-<img src="img/Python-logo-notext.png" width="20" height="20">Python, <img src="img/Java-logo-notext.png" width="20" height="20">Java
+<img src="img/Python-logo-notext.png" width="30" height="30">Python, <img src="img/Java-logo-notext.png" width="30" height="30">Java, <img src="img/C-logo-notext.png" width="30" height="30">C/C++, 
 
 ### Tool
 - 
