@@ -4,7 +4,7 @@ Let's prepare for the  singularity that will come someday!
 - Malchine Learning, Cloud Computing
 
 ### Language
-- For Machine Learning: ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg){: width="10" height="10"}
+- For Machine Learning: ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg){: width="10%" height="10%"}
 - For Aplication: Java, C/C++
 - For Web Development: JavaScript, Node.js
 
