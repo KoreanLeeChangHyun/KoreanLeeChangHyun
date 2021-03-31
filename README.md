@@ -7,10 +7,10 @@
 - 🌱 I’m currently studying Cloud Computing
 - 🤔 I’m currently making the Mobile Application for card trading.
 
-### 💡 <b> Major & Interest </b>
+### <b> Major & Interest </b>
 - Machine Learning, Cloud Computing, Application
 
-### 📝 <b> Language & Tool</b>
+### <b> Language & Tool</b>
 - <img src="img/Python-logo-notext.png" width="20" height="20"> Python &nbsp;&nbsp;
 <img src="img/Java-logo-notext.png" width="20" height="20"> Java &nbsp;&nbsp;
 <img src="img/C-logo-notext.png" width="20" height="20"> C/C++ &nbsp;&nbsp;
