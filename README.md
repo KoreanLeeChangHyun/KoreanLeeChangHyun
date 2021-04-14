@@ -22,6 +22,8 @@
 
 ### 📫 Contact
 - m.leechanghyun@gmail.com
+- lwrc01@naver.com
+- leechanghyun@changwon.ac.kr
 
 
 <!--
