@@ -16,8 +16,8 @@
 <img src="img/C-logo-notext.png" width="20" height="20"> C/C++ &nbsp;&nbsp;
 <img src="img/node-logo.png" width="20" height="20"> Node.js &nbsp;&nbsp;
 <img src="img/pycharm-logo-notext.png" width="20" height="20"> Pycharm &nbsp;&nbsp;
-<img src="img/Eclipse-logo-notext.png" width="20" height="20"> Eclipse &nbsp;&nbsp;
-<img src="img/Visual Studio-logo-notext.png" width="20" height="20"> Visual Studio &nbsp;&nbsp;
+<img src="img/Eclipse-logo.png" width="20" height="20"> Eclipse &nbsp;&nbsp;
+<img src="img/Visual Studio-logo.png" width="20" height="20"> Visual Studio &nbsp;&nbsp;
 <img src="img/Atom-logo-notext.png" width="20" height="20"> Atom &nbsp;&nbsp;
 
 ### 📫 Contact
