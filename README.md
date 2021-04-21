@@ -1,5 +1,5 @@
 ## Welcom LeeChangHyun Repository 
-- Let's prepare for the  singularity that will come someday!
+- Let's prepare for the  singularity that will come someday
 
 ### My started:
 - 🔭 I’m currently working on Changwon University (Master degree)  
