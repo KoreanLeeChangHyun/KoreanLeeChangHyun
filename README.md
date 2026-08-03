@@ -1,6 +1,6 @@
 # Hi, I'm Changhyun Lee 👋
 
-I'm an **AI developer** building practical products with AI agents, backend systems, and automation.
+I'm an **AI Agent developer** building practical products with **FastAPI** and **Django**.
 My current focus is turning complex software-delivery processes into systems that are easier to run, inspect, and improve.
 
 ## What I'm working on
@@ -24,13 +24,9 @@ A Codex plugin for structured software delivery through intake, work units, exec
 
 Experiments and tooling for AI-assisted development workflows, session management, and project automation.
 
-## Areas of interest
+## Core expertise
 
-`AI Agents` · `Developer Tooling` · `Workflow Automation` · `Machine Learning` · `Game Development`
-
-## Tech stack
-
-`Python` · `FastAPI` · `Django` · `AI/ML` · `GitHub Actions` · `Git`
+`AI Agents` · `FastAPI` · `Django`
 
 ## Connect
 
