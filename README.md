@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.png" alt="AI Agent, backend, data engineering, and game development" width="100%">
+</p>
+
 # 이창현 | AI Agent Developer
 
 **AI Agent**, **FastAPI**, **Django**를 중심으로 실제 업무에 적용할 수 있는 시스템을 개발합니다.
