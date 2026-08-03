@@ -1,6 +1,6 @@
 # Hi, I'm Changhyun Lee 👋
 
-I'm an **AI Agent developer** building practical products with **FastAPI**, **Django**, and **ETL pipelines**.
+I'm an **AI Agent developer** building practical products with **FastAPI** and **Django**, with experience in **ETL, data integration, and migration**.
 My current focus is turning complex software-delivery processes into systems that are easier to run, inspect, and improve.
 
 ## What I'm working on
@@ -26,7 +26,7 @@ Experiments and tooling for AI-assisted development workflows, session managemen
 
 ## Core expertise
 
-`AI Agents` · `FastAPI` · `Django` · `ETL`
+`AI Agents` · `FastAPI` · `Django` · `ETL` · `Data Integration` · `Data Migration`
 
 ## Connect
 
