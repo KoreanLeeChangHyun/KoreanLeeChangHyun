@@ -1,40 +1,47 @@
-## Welcom LeeChangHyun Repository 
-- Let's prepare for the  singularity that will come someday!
+# 이창현 | AI Agent Developer
 
-### My started:
-- 🔭 I’m currently working on Changwon University (Master degree)  
-- 🌱 I’m currently learning Machine Learning
-- 🌱 I’m currently studying Cloud Computing
-- 🤔 I’m currently making the Mobile Application for card trading.
+**AI Agent**, **FastAPI**, **Django**를 중심으로 실제 업무에 적용할 수 있는 시스템을 개발합니다.
 
-### <b> Major & Interest </b>
-- Machine Learning, Cloud Computing, Application
+ETL 파이프라인 구축과 데이터 통합·마이그레이션 경험을 바탕으로, 복잡한 데이터와 개발 과정을 안정적인 서비스로 연결하는 데 관심이 있습니다.
+Godot으로 게임 시스템과 인터랙티브 콘텐츠도 개발하고 있습니다.
 
-### <b> Language & Tool</b>
-- <img src="img/Python-logo-notext.png" width="20" height="20"> Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="img/Java-logo-notext.png" width="20" height="20"> Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="img/C-logo-notext.png" width="20" height="20"> C/C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="img/node-logo.png" width="20" height="20"> Node.js &nbsp;&nbsp;
-- <img src="img/pycharm-logo-notext.png" width="20" height="20"> Pycharm &nbsp;&nbsp;
-<img src="img/Eclipse-logo.png" width="20" height="20"> Eclipse &nbsp;&nbsp;
-<img src="img/Visual Studio-logo.png" width="20" height="20"> Visual Studio &nbsp;&nbsp;
-<img src="img/Atom-logo-notext.png" width="20" height="20"> Atom &nbsp;&nbsp;
+## 핵심 역량
 
-### 📫 Contact
-- m.leechanghyun@gmail.com
+- **AI Agent** — 에이전트 워크플로, 도구 연동, Human-in-the-loop 시스템
+- **Backend** — Python, FastAPI, Django 기반 API 및 서비스 개발
+- **Data Engineering** — ETL 파이프라인, 데이터 통합, 데이터 마이그레이션
+- **Developer Tooling** — 반복 가능한 개발 프로세스와 자동화 도구 설계
+- **Game Development** — Godot 기반 게임 시스템 구현과 프로토타이핑
 
+## 주요 프로젝트
 
-<!--
-**KoreanLeeChangHyun/KoreanLeeChangHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Agent Factory](https://github.com/KoreanLeeChangHyun/agent-factory)
 
-Here are some ideas to get you started:
+AI 기반 소프트웨어 개발 과정을 구조화하는 프로젝트입니다. Codex 플러그인, VS Code 확장, 웹 애플리케이션을 하나의 생태계로 구성합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Agent Factory for Codex](https://github.com/KoreanLeeChangHyun/agent-factory-codex-plugin)
+
+요구사항 접수부터 작업 단위 구성, 실행, 사람의 검토까지 연결하는 구조화된 소프트웨어 딜리버리용 Codex 플러그인입니다.
+
+### [Claude Workflow](https://github.com/KoreanLeeChangHyun/claude-workflow)
+
+AI 보조 개발을 위한 워크플로, 세션 관리, 프로젝트 자동화를 실험하고 구현한 개발 도구입니다.
+
+### Wishbone *(Private)*
+
+Godot과 GDScript로 개발 중인 게임 프로젝트입니다. 게임 시스템 구현과 플레이 프로토타이핑을 진행하고 있습니다.
+
+## 기술 분야
+
+`AI Agents` · `Python` · `FastAPI` · `Django` · `ETL` · `Data Integration` · `Data Migration` · `Godot` · `GDScript`
+
+## 연락처
+
+- GitHub: [@KoreanLeeChangHyun](https://github.com/KoreanLeeChangHyun)
+- Email: [m.leechanghyun@gmail.com](mailto:m.leechanghyun@gmail.com)
+
+---
+
+<p align="center">
+  <em>사람과 AI가 더 나은 방식으로 함께 일할 수 있는 시스템을 만듭니다.</em>
+</p>
