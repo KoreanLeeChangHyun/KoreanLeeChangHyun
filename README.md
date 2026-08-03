@@ -1,6 +1,6 @@
 # Hi, I'm Changhyun Lee 👋
 
-I build practical tools around **AI agents, developer workflows, and automation**.
+I'm an **AI developer** building practical products with AI agents, backend systems, and automation.
 My current focus is turning complex software-delivery processes into systems that are easier to run, inspect, and improve.
 
 ## What I'm working on
@@ -27,6 +27,10 @@ Experiments and tooling for AI-assisted development workflows, session managemen
 ## Areas of interest
 
 `AI Agents` · `Developer Tooling` · `Workflow Automation` · `Machine Learning` · `Game Development`
+
+## Tech stack
+
+`Python` · `FastAPI` · `Django` · `AI/ML` · `GitHub Actions` · `Git`
 
 ## Connect
 
