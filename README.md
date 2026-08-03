@@ -27,9 +27,13 @@ AI 기반 소프트웨어 개발 과정을 구조화하는 프로젝트입니다
 
 AI 보조 개발을 위한 워크플로, 세션 관리, 프로젝트 자동화를 실험하고 구현한 개발 도구입니다.
 
+### Wishbone *(Private)*
+
+Godot과 GDScript로 개발 중인 게임 프로젝트입니다. 게임 시스템 구현과 플레이 프로토타이핑을 진행하고 있습니다.
+
 ## 기술 분야
 
-`AI Agents` · `Python` · `FastAPI` · `Django` · `ETL` · `Data Integration` · `Data Migration` · `Godot`
+`AI Agents` · `Python` · `FastAPI` · `Django` · `ETL` · `Data Integration` · `Data Migration` · `Godot` · `GDScript`
 
 ## 연락처
 
