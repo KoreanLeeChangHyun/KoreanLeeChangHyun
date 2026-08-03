@@ -21,15 +21,11 @@ Godot으로 게임 시스템과 인터랙티브 콘텐츠도 개발하고 있습
 
 ### [Agent Factory](https://github.com/KoreanLeeChangHyun/agent-factory)
 
-AI 기반 소프트웨어 개발 과정을 구조화하는 프로젝트입니다. Codex 플러그인, VS Code 확장, 웹 애플리케이션을 하나의 생태계로 구성합니다.
+AI 기반 소프트웨어 개발 과정을 구조화하는 프로젝트입니다. 요구사항 접수부터 작업 단위 구성, 실행, 사람의 검토까지 이어지는 개발 흐름을 하나의 생태계로 연결합니다.
 
-### [Agent Factory for Codex](https://github.com/KoreanLeeChangHyun/agent-factory-codex-plugin)
-
-요구사항 접수부터 작업 단위 구성, 실행, 사람의 검토까지 연결하는 구조화된 소프트웨어 딜리버리용 Codex 플러그인입니다.
-
-### [Claude Workflow](https://github.com/KoreanLeeChangHyun/claude-workflow)
-
-AI 보조 개발을 위한 워크플로, 세션 관리, 프로젝트 자동화를 실험하고 구현한 개발 도구입니다.
+- **Plugin** — Agent Factory 워크플로와 재사용 가능한 개발 역량
+- **VS Code Extension** — 에디터 안에서 사용하는 Agent Factory 개발 환경
+- **Web** — 프로젝트와 에이전트 작업을 관리하는 웹 인터페이스
 
 ### Wishbone *(Private)*
 
