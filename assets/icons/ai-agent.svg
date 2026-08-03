@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">AI Agent</title>
+  <defs>
+    <linearGradient id="agent-gradient" x1="18" y1="20" x2="108" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="55" fill="#0f172a"/>
+  <path d="M64 25v12M31 48l10 6M97 48l-10 6M31 85l10-6M97 85l-10-6" fill="none" stroke="url(#agent-gradient)" stroke-width="7" stroke-linecap="round"/>
+  <rect x="36" y="37" width="56" height="54" rx="18" fill="none" stroke="url(#agent-gradient)" stroke-width="7"/>
+  <circle cx="54" cy="61" r="5" fill="#22d3ee"/>
+  <circle cx="74" cy="61" r="5" fill="#a78bfa"/>
+  <path d="M50 76c8 7 20 7 28 0" fill="none" stroke="#e2e8f0" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="31" cy="48" r="6" fill="#22d3ee"/>
+  <circle cx="97" cy="48" r="6" fill="#8b5cf6"/>
+  <circle cx="31" cy="85" r="6" fill="#38bdf8"/>
+  <circle cx="97" cy="85" r="6" fill="#a78bfa"/>
+</svg>

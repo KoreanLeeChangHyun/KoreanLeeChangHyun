@@ -33,7 +33,38 @@ Godot과 GDScript로 개발 중인 게임 프로젝트입니다. 게임 시스�
 
 ## 기술 분야
 
-`AI Agents` · `Python` · `FastAPI` · `Django` · `ETL` · `Data Integration` · `Data Migration` · `Godot` · `GDScript`
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="assets/icons/ai-agent.svg" width="46" height="46" alt="AI Agents"><br>
+      <sub><strong>AI Agents</strong></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="46" height="46" alt="Python"><br>
+      <sub><strong>Python</strong></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="46" height="46" alt="FastAPI"><br>
+      <sub><strong>FastAPI</strong></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="46" height="46" alt="Django"><br>
+      <sub><strong>Django</strong></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="assets/icons/data-pipeline.svg" width="46" height="46" alt="ETL and data integration"><br>
+      <sub><strong>ETL · Integration</strong></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="46" height="46" alt="Godot"><br>
+      <sub><strong>Godot · GDScript</strong></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="46" height="46" alt="Git"><br>
+      <sub><strong>Git</strong></sub>
+    </td>
+  </tr>
+</table>
 
 ## 연락처
 

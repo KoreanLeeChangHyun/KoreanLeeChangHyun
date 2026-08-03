@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">ETL and data integration</title>
+  <defs>
+    <linearGradient id="data-gradient" x1="20" y1="24" x2="108" y2="104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee"/>
+      <stop offset=".52" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="55" fill="#0f172a"/>
+  <ellipse cx="31" cy="37" rx="17" ry="9" fill="none" stroke="#22d3ee" stroke-width="6"/>
+  <path d="M14 37v24c0 5 8 9 17 9s17-4 17-9V37M14 49c0 5 8 9 17 9s17-4 17-9" fill="none" stroke="#22d3ee" stroke-width="6"/>
+  <path d="M49 54h23c9 0 16 7 16 16v6" fill="none" stroke="url(#data-gradient)" stroke-width="7" stroke-linecap="round"/>
+  <path d="m78 72 10 10 10-10" fill="none" stroke="#f59e0b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="70" y="82" width="36" height="23" rx="6" fill="none" stroke="#f59e0b" stroke-width="6"/>
+  <path d="M79 93h18" stroke="#fde68a" stroke-width="5" stroke-linecap="round"/>
+</svg>
