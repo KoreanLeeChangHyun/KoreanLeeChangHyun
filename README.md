@@ -1,40 +1,40 @@
-## Welcom LeeChangHyun Repository 
-- Let's prepare for the  singularity that will come someday!
+# Hi, I'm Changhyun Lee 👋
 
-### My started:
-- 🔭 I’m currently working on Changwon University (Master degree)  
-- 🌱 I’m currently learning Machine Learning
-- 🌱 I’m currently studying Cloud Computing
-- 🤔 I’m currently making the Mobile Application for card trading.
+I build practical tools around **AI agents, developer workflows, and automation**.
+My current focus is turning complex software-delivery processes into systems that are easier to run, inspect, and improve.
 
-### <b> Major & Interest </b>
-- Machine Learning, Cloud Computing, Application
+## What I'm working on
 
-### <b> Language & Tool</b>
-- <img src="img/Python-logo-notext.png" width="20" height="20"> Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="img/Java-logo-notext.png" width="20" height="20"> Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="img/C-logo-notext.png" width="20" height="20"> C/C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="img/node-logo.png" width="20" height="20"> Node.js &nbsp;&nbsp;
-- <img src="img/pycharm-logo-notext.png" width="20" height="20"> Pycharm &nbsp;&nbsp;
-<img src="img/Eclipse-logo.png" width="20" height="20"> Eclipse &nbsp;&nbsp;
-<img src="img/Visual Studio-logo.png" width="20" height="20"> Visual Studio &nbsp;&nbsp;
-<img src="img/Atom-logo-notext.png" width="20" height="20"> Atom &nbsp;&nbsp;
+- 🤖 Building structured workflows for AI-assisted software development
+- 🧩 Creating reusable Codex plugins, skills, and developer tools
+- ⚙️ Exploring multi-agent orchestration and human-in-the-loop review
+- 🎮 Prototyping game systems and interactive experiences
 
-### 📫 Contact
-- m.leechanghyun@gmail.com
+## Featured projects
 
+### [Agent Factory](https://github.com/KoreanLeeChangHyun/agent-factory)
 
-<!--
-**KoreanLeeChangHyun/KoreanLeeChangHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A unified workspace for the Agent Factory ecosystem, connecting the Codex plugin, VS Code extension, and web application.
 
-Here are some ideas to get you started:
+### [Agent Factory for Codex](https://github.com/KoreanLeeChangHyun/agent-factory-codex-plugin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Codex plugin for structured software delivery through intake, work units, execution, and human review.
+
+### [Claude Workflow](https://github.com/KoreanLeeChangHyun/claude-workflow)
+
+Experiments and tooling for AI-assisted development workflows, session management, and project automation.
+
+## Areas of interest
+
+`AI Agents` · `Developer Tooling` · `Workflow Automation` · `Machine Learning` · `Game Development`
+
+## Connect
+
+- GitHub: [@KoreanLeeChangHyun](https://github.com/KoreanLeeChangHyun)
+- Email: [m.leechanghyun@gmail.com](mailto:m.leechanghyun@gmail.com)
+
+---
+
+<p align="center">
+  <em>Building systems where people and AI can do better work together.</em>
+</p>
