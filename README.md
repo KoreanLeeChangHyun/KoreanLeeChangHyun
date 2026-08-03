@@ -3,7 +3,7 @@
 **AI Agent**, **FastAPI**, **Django**를 중심으로 실제 업무에 적용할 수 있는 시스템을 개발합니다.
 
 ETL 파이프라인 구축과 데이터 통합·마이그레이션 경험을 바탕으로, 복잡한 데이터와 개발 과정을 안정적인 서비스로 연결하는 데 관심이 있습니다.
-게임 시스템과 인터랙티브 콘텐츠도 개발하고 있습니다.
+Godot으로 게임 시스템과 인터랙티브 콘텐츠도 개발하고 있습니다.
 
 ## 핵심 역량
 
@@ -11,7 +11,7 @@ ETL 파이프라인 구축과 데이터 통합·마이그레이션 경험을 바
 - **Backend** — Python, FastAPI, Django 기반 API 및 서비스 개발
 - **Data Engineering** — ETL 파이프라인, 데이터 통합, 데이터 마이그레이션
 - **Developer Tooling** — 반복 가능한 개발 프로세스와 자동화 도구 설계
-- **Game Development** — 게임 시스템 구현과 프로토타이핑
+- **Game Development** — Godot 기반 게임 시스템 구현과 프로토타이핑
 
 ## 주요 프로젝트
 
@@ -29,7 +29,7 @@ AI 보조 개발을 위한 워크플로, 세션 관리, 프로젝트 자동화�
 
 ## 기술 분야
 
-`AI Agents` · `Python` · `FastAPI` · `Django` · `ETL` · `Data Integration` · `Data Migration` · `Game Development`
+`AI Agents` · `Python` · `FastAPI` · `Django` · `ETL` · `Data Integration` · `Data Migration` · `Godot`
 
 ## 연락처
 
