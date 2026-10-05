@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="AI Agent, backend, data engineering, and game development" width="100%">
+  <img src="assets/profile-banner-v2.png" alt="AI agent, backend, data, web, and game development systems" width="100%">
 </p>
 
 # 이창현 | Software Developer
@@ -55,6 +55,10 @@
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="46" height="46" alt="Express"><br>
       <sub><strong>Express</strong></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL"><br>
+      <sub><strong>PostgreSQL</strong></sub>
     </td>
     <td align="center" width="130">
       <img src="assets/icons/data-pipeline.svg" width="46" height="46" alt="ETL and data integration"><br>
