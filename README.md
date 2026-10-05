@@ -44,6 +44,18 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="46" height="46" alt="Django"><br>
       <sub><strong>Django</strong></sub>
     </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="46" height="46" alt="React"><br>
+      <sub><strong>React</strong></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="46" height="46" alt="Node.js"><br>
+      <sub><strong>Node.js</strong></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="46" height="46" alt="Express"><br>
+      <sub><strong>Express</strong></sub>
+    </td>
     <td align="center" width="130">
       <img src="assets/icons/data-pipeline.svg" width="46" height="46" alt="ETL and data integration"><br>
       <sub><strong>ETL · Integration</strong></sub>
